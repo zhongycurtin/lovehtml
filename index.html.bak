@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>love line with Mrs.Right</title>
+<title>言短情深，与卿之语</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
 
 <style type="text/css">
 @font-face {
 	font-family: digit;
 	src: url('digital-7_mono.ttf') format("truetype");
 }
+
 </style>
 
 <link href="css/default.css" type="text/css" rel="stylesheet">
@@ -20,22 +23,19 @@
 
 <body>
 <!-- <embed src="http://p3qhnc0eg.bkt.clouddn.com/U%20are%20so%20beautiful.mp3" width="0" height="0" loop="-1" autostart="true"> </embed> -->
-<embed src="http://other.web.ri01.sycdn.kuwo.cn/resource/n3/19/68/2405391895.mp3" width="0" height="0" loop="-1" autostart="true"> </embed>
+
 
 
 <div id="mainDiv">
 	<div id="content">
 		<div id="code">
-        	我很努力的<br />
-            要成为一个</span><br />
-            <span class="keyword">优秀的男朋友</span><br /><br />
+        	见字如晤。<br /><br />
 
-            你也很努力的<br />
-            在成为一个<br />
-            <span class="keyword">优秀的女朋友的路上</span><br /><br />
+            今天上午的回复有些唐突，也不知道为什么就突然说了类似告白的话语，脑子里有点嗡嗡的。<br /><br />
 
-            这种感觉<br />
-            真的是<br />
+            流光容易把人抛，红了樱桃，绿了芭蕉。我们第一次见面，还是2019年的夏天，寒来暑往，至今已逾四载。<br />
+            现在回想起19年的夏天，也不禁感觉有些好笑。我猜想那时候的我们，固然抱着对对方的些许好感，但更多恐怕还是在长辈的压力下进行的相亲活动，所以双方怕是都很拘束。<br />
+            当时印象最深刻的一件事是在我房间喝酒。当时一听你说到我房间尝尝奔富，脑子一下就有点蒙，脸上的表情也有些不自然，心理活动大概是“孤男寡女，共处一室，万一喝醉了岂不是大为不妙”“但对方既然开口了，我也不好意思拒绝”“不如我多喝一些，我先喝醉然后逐客，应该就问题不大了吧”。于是最后就是一瓶本来说你要尝尝的奔富，结果倒是我喝了个大半，哈哈哈哈哈哈哈哈哈。<br /><br />
              <span class="keyword">太好了</span><br /><br />
 
             唯有梦想与好姑娘<br />
@@ -45,7 +45,7 @@
    			<span class="keyword">I want to say:</span><br />
 			Mrs.Right<br />
             <span class="keyword"> I love you! </span><br />
-            -- 钟先森<br />
+            -- 钟越<br />
 
 
 		</div>
@@ -53,7 +53,7 @@
 			<canvas id="garden"></canvas>
 			<div id="words">
 				<div id="messages">
-					相识已有...
+					相见已有...
 					<div id="elapseClock"></div>
 				</div>
 <!--			<div id="loveu">
@@ -100,9 +100,6 @@ if (!document.createElement('canvas').getContext) {
 	$("#code").typewriter();
 }
 </script>
-<div style="text-align:center;clear:both">
-<p>Made for Mrs.Right, made by <a href="https://github.com/enfangzhong" target="_blank">Viper<a /></p>
-<p>Copyright © 2017 - 2019. All Rights Reserved. Designed by <a href="https://github.com/enfangzhong" target="_blank">Viper<a /> </p>
-</div>
+
 </body>
 </html>
